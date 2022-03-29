@@ -17,7 +17,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Repository url](https://github.com/AbreuY/NFT-preview-card-component-exercise)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Hosted on Vercel](https://nft-preview-card-component-exercise.vercel.app/)
 
 
 ### Built with
