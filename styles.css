@@ -38,10 +38,20 @@ body {
 }
 
 .image-container:hover .overlay {
+  /* content: url('./images/icon-view.svg'); */
   display: block;
   background: hsla(178, 100%, 50%, 0.4);
   border-radius: 10px;
   cursor: pointer;
+}
+
+.icon-view{
+margin: auto;
+position: absolute;
+left: 0;
+right: 0;
+top: 0;
+bottom: 0;
 }
 
 h3 {
